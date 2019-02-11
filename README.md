@@ -1,5 +1,5 @@
 # ***Statistical learning***
-### This repository intend to apply different statistical learning approaches on credit card fraud detection (Kaggle dataset):
+### This repository intend to apply different supervised learning approaches on credit card fraud detection (Kaggle dataset):
 ##### 1. Naïve-Bayes.
 ##### 2. Random Forest (Number of estimator = 200).
 ##### 3. Non Linear Support Vector machine (Polynomial Kernel Degree = 3).
