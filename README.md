@@ -72,5 +72,5 @@ From the above results it is obvous that:
 - ROC-AUC and Recall scores in the case of original data are lower than the case of oversampled data in all approaches.
 - Naîve bayes and Random forest have high ROC-AUC and Recall scores comparing them to other approaches.
 - Gradient Boosting is the approach with the lower scores in the case of original data.
-- Ensemble approaches (Random forest and gradient boosting) outperformed other approaches in the case of oversampled data.
+- Ensemble approaches (Random forest and gradient boosting) outperformed other approaches in the case of oversampled data specially Gradient Boosting approach.
 - K-nearest neighbors is a good approach in this case.
